@@ -17,9 +17,10 @@
 <br/><br/>
 
 <table align="center">
+<table align="center">
 <tr>
 <td align="center" valign="middle">
-<img src="https://media.tenor.com/7vj7R9_w1B0AAAAC/pom-pom-honkai-star-rail.gif" width="130" alt="Pom-Pom"/>
+<img src="https://media.tenor.com/f9-TBy59zE8AAAAC/kurukuru-herta.gif" width="130" alt="Kuru Kuru Herta"/>
 </td>
 <td valign="middle">
 <code>&gt; INCOMING TRANSMISSION</code><br/>
@@ -28,9 +29,7 @@
 <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May this journey lead us starward."</code>
 </td>
 </tr>
-</table>
-
-</div>
+</table></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=8000ff&amp;height=3" width="100%" alt="divider"/>
 
