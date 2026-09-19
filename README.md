@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8000ff&height=240&section=header&text=TRAILBLAZER%20%2F%20ADITYA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=%E2%9C%A6%20Full%20Stack%20%2F%20ML%20Developer%20%26%20Trailblazer%20%E2%9C%A6&descSize=18&descAlignY=68" width="100%" alt="header banner"/>
 
+<img src="./wallpaperflare.com_wallpaper.jpg" width="100%" alt="hero art"/>
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=900&color=9933FF&center=true&vCenter=true&width=760&lines=%3E+BOARDING+THE+ASTRAL+EXPRESS...;%3E+NAME%3A+ADITYA+PALLICKARA;%3E+ROLE%3A+FULL+STACK+%2B+MACHINE+LEARNING;%3E+AGE%3A+20;%3E+DESTINATION%3A+BUILDING+INTELLIGENT+WEB+APPS" alt="typing visual"/>
 
 <br/>
@@ -53,6 +57,10 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,mongodb,postgres,git,github,vscode&perline=11" alt="tech stack"/>
 
+<br/><br/>
+
+<img src="./wallpaperflare.com_wallpaper (1).jpg" width="90%" alt="Herta Marionettes Art"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8000ff&height=3" width="100%" alt="divider"/>
@@ -65,6 +73,16 @@
 |:--|:--|:--|
 | **[Web App Platform](https://github.com/DumbCoder02)** | Dynamic full stack web application interface. | `React` `Node.js` `MongoDB` |
 | **[ML Backend Service](https://github.com/DumbCoder02)** | Machine Learning backend integration pipeline. | `Python` `Machine Learning` |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8000ff&height=3" width="100%" alt="divider"/>
+
+<div align="center">
+
+## 🎭 &nbsp;FEATURED ART&nbsp; 🎭
+
+<img src="./Screenshot 2026-09-19 121600.jpg" width="90%" alt="Cyrene Starfall Art"/>
 
 </div>
 
@@ -93,6 +111,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=1200&color=FF3B7F&center=true&vCenter=true&width=700&lines=%22May+This+Journey+Lead+Us+Starward.%22;%3E+END+OF+TRANSMISSION" alt="footer typing"/>
 
 <br/><br/>
+
+<img src="./wallpaperflare.com_wallpaper (2).jpg" width="100%" alt="Penacony Skyline Footer Art"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8000ff&height=40&section=footer" width="100%" alt="footer bar"/>
 
