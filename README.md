@@ -143,7 +143,7 @@
 
 ## ✨ &nbsp;STELLARON ARCHIVE (FEATURED ART)&nbsp; ✨
 
-<img src="./Screenshot%202026-09-19%20121600.jpg" width="90%" alt="Featured artwork"/>
+<img src="./Screenshot%202026-09-19%20121600.png" width="90%" alt="Featured artwork"/>
 
 </div>
 
